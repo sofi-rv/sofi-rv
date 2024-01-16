@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sofía Ramírez</h1>
 <h3 align="center">A passionate full-stack developer from Costa Rica</h3>
 
-- 🌱 I’m currently learning **Agile Explorer(agile methodology) - IBM Skills Build**
+- 🌱 I’m currently learning **Agile Explorer - IBM Skills Build**
   
 - 👨‍💻 All of my projects are available at [https://github.com/sofi-rv](https://github.com/sofi-rv)
 
